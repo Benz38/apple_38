@@ -1,0 +1,57 @@
+.pageTitle {
+    margin-top: 100px;
+    width: 480px;
+    margin-right: auto;
+    margin-bottom: 32px;
+    margin-left: auto;}
+@media only screen and (max-width: 1068px) {
+    .pageTitle {
+        width: 420px;}}
+@media only screen and (max-width: 735px) {
+    .pageTitle {
+        margin-top: 72px;
+        max-width: 320px;
+        width: 84%;}}
+
+.pageTitle-heading {
+    font-size: 52px;
+    font-size: 3.25rem;
+    letter-spacing: -0.014em;
+    line-height: 1.0865;
+    text-align: center;}
+@media only screen and (max-width: 1068px) {
+  .pageTitle-heading {
+    font-size: 42px;
+    font-size: 2.625rem;
+    line-height: 1.1429;
+    letter-spacing: -0.01em;} }
+@media only screen and (max-width: 735px) {
+  .pageTitle-heading {
+    font-size: 32px;
+    font-size: 2rem;
+    line-height: 1.125;
+    letter-spacing: normal;} }
+
+.as-sitemap {
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    text-align: center;}
+@media only screen and (max-width: 1068px) {
+    .as-sitemap {
+        width: 692px;}}
+@media only screen and (max-width: 735px) {
+    .as-sitemap {
+        width: 90%;}}
+
+.as-search {
+    width: 410px;}
+.as-search .as-search-content {
+    width: auto;}
+.as-search .as-search-content .as-search-form-input {
+    background: none;}
+@media only screen and (max-width: 735px) {
+    .as-search {
+        width: 84%;
+        max-width: 410px;}}

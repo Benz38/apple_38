@@ -1,0 +1,1 @@
+"use strict";!function(){try{require("@marcom/ac-analytics").createBasicObserverSuite()}catch(c){}}();
